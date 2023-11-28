@@ -33,6 +33,6 @@ This Notebook reproduces some basic functionalities of such apps and adds some e
 - Trimming the track from a specified time on. This is useful for removing that undesired final part of the track (sometimes recorded after switching vehicles).
 
 An online version of the notebook is available here:
-https://colab.research.google.com/github/RSPdatascience/GPX-datascience/blob/main/GPX2df-Colab.ipynb
+https://colab.research.google.com/github/RSPdatascience/GPX-datascience/blob/master/GPX2df-Colab.ipynb
 
 https://colab.research.google.com/drive/1t45gdykNZotDiwYoqek7ZffCLWInNNVp?usp=drive_link
