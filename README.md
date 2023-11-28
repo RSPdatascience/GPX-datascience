@@ -32,7 +32,4 @@ This Notebook reproduces some basic functionalities of such apps and adds some e
 - Plotting the track on a map. Maximum speed and heart rate are displayed at the location where they were reached. Cumulative time, cumulative distance, instantaneous speed, and instantaneous slope can also be displayed by clicking any point on the track.
 - Trimming the track from a specified time on. This is useful for removing that undesired final part of the track (sometimes recorded after switching vehicles).
 
-An online version of the notebook is available here:
-https://colab.research.google.com/github/RSPdatascience/GPX-datascience/blob/master/GPX2df-Colab.ipynb
-
-https://colab.research.google.com/drive/1t45gdykNZotDiwYoqek7ZffCLWInNNVp?usp=drive_link
+An online version of the notebook can be run directly in [colab](https://colab.research.google.com/github/RSPdatascience/GPX-datascience/blob/master/GPX2df-Colab.ipynb)
