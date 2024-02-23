@@ -33,3 +33,5 @@ This Notebook reproduces some basic functionalities of such apps and adds some e
 - Trimming the track from a specified time on. This is useful for removing that undesired final part, sometimes mistakenly recorded after finishing the actual route.
 
 An online version of the notebook can be run directly in [colab](https://colab.research.google.com/github/RSPdatascience/GPX-datascience/blob/master/GPX2df-Colab.ipynb)
+
+.
